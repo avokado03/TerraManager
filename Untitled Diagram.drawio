@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T19:47:25.448Z" agent="5.0 (Windows)" etag="_6e7hOdv2Wo7axmwXVXU" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-12T19:48:47.052Z" agent="5.0 (Windows)" etag="TiLIGUuzEtKPHdC0pxhd" version="20.0.4" type="github" pages="3">
   <diagram id="FIrea2oT4nY-FdcruvYv" name="Activity">
     <mxGraphModel dx="1730" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -690,7 +690,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DhYLbE_D7j-6P8XjbPQ-1" value="Пользо&lt;br&gt;ватель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="6DhYLbE_D7j-6P8XjbPQ-1" value="Пользо&lt;br&gt;ватель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DhYLbE_D7j-6P8XjbPQ-2" value="Просмотр списка&lt;br&gt;животных" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -760,7 +760,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9xSU8n0x60PEv_NVzDk-20" value="NotificationService" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="p9xSU8n0x60PEv_NVzDk-20" value="NotificationService" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="330" y="620" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p9xSU8n0x60PEv_NVzDk-24" value="Просмотр списка&lt;br&gt;нотификаций" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
